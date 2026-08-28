@@ -50,4 +50,4 @@ rhythmic_blockchain/
 └── README.md       # Documentation
 
 
-LinkwdIn URL:https://www.linkedin.com/posts/josna-johnson-894a29392_python-pythonproject-blockchain-activity-7498680978857570304-2s7J?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGCdu7AB3McqJazzcJ3w2cmEvw-1JU5jJNc
+LinkedIn URL:https://www.linkedin.com/posts/josna-johnson-894a29392_python-pythonproject-blockchain-activity-7498680978857570304-2s7J?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGCdu7AB3McqJazzcJ3w2cmEvw-1JU5jJNc
